@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+#right {
+    float: right;
+    background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg");
+    height: 75%;
+    width: 75%;
+}
+#left {
+    float: left;
+    background-color: black;
+    color: white;
+}
+.showcase-text {
+    color: white;
+}
